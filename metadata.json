@@ -1,0 +1,5 @@
+{
+  "name": "FixItNow - Ghana's On-Demand Repair Service",
+  "description": "A professional platform for on-demand repair services in Ghana, connecting users with verified pros for AC, plumbing, electrical, and carpentry needs.",
+  "requestFramePermissions": ["geolocation"]
+}
